@@ -23,15 +23,17 @@ Código en línea: `print("Hola, mundo")`
 
 Bloque de código:
 
-```python
+``python
 def saludar():
     print("Hola, mundo")
     
-saludar()
+saludar()``
 
 
-- [] MANZANA
-- [] SANDIA
-- [] PERA
+
+
+- [x] MANZANA
+- [ ] SANDIA
+- [ ] PERA
 
 
