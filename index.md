@@ -28,3 +28,10 @@ def saludar():
     print("Hola, mundo")
     
 saludar()
+
+
+- [] MANZANA
+- [] SANDIA
+- [] PERA
+
+
